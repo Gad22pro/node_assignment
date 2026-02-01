@@ -1,3 +1,8 @@
+1,Open phpMyAdmin in your browser
+but before go to phpmyadmin open apache and MySQL
+2,Create a new database named: db
+3,Select the database and create a table:
+
 CREATE TABLE users (
     id int AUTO_INCREMENT PRIMARY KEY,
     name varchar(100),
@@ -5,4 +10,5 @@ CREATE TABLE users (
     age int(3),
     salary decimal(10, 2),
     is_active boolean DEFAULT true
+
 )
