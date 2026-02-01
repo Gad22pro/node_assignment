@@ -1,9 +1,10 @@
 title: Node.js Backend API Assignment
 ---------------------------------------
 GROUP MEMBERS : JONIS
--------------   tASNIM
+                tASNIM
                 LISANDRO
-                GAD
+                GAD .
+                
   PROJECT DESCRIPTION:
   --------------------
   This project is a backend application built using Node.js and Express.js.
