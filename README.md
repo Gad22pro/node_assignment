@@ -48,7 +48,7 @@ CREATE TABLE users (
    HOW TO RUN THE PROJECT LOCALLY:
    --------------------------------
  1, Clone the repository:
--- git clone https://github.com/gad22pro/node_assignment.git
+-- git clone https://github.com/Gad22pro/node_assignment.git
 2, Navigate into the project folder:
 -- cd node_assignment
  3,Install dependencies:
