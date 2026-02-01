@@ -1,8 +1,8 @@
 title: Node.js Backend API Assignment
 ---------------------------------------
-GROUP MEMBERS : JONIS
-                tASNIM
-                LISANDRO
+GROUP MEMBERS : JONIS ,
+                tASNIM ,
+                LISANDRO ,
                 GAD .
                 
   PROJECT DESCRIPTION:
